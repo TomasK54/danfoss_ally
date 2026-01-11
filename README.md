@@ -25,7 +25,7 @@ First of all you need to go and create an api-key and secret
 
 - Navigate to https://developer.danfoss.com
 - Create Danfoss developer account and login _<u><b>NOTE:</b> Use the same email as used in the Danfoss Ally app for pairing your gateway</u>_
-- Go to https://developer.danfoss.com/my-apps and click "New App"
+- Go to https://developer.danfoss.com/user/apps and click "Add App"
 - Give the app a name and description (naming and description is not of any importance as it's only for your use)
 - Make sure to enable Danfoss Ally API
 - Click create
@@ -43,6 +43,7 @@ See: [Usage.md](Usage.md)
 ## Known issues
 
 - Inconsistency between API and app, devices are not updating correctly between API and app and sometimes the devices renders offline in the app - this is a Danfoss issue and not this integration
+
 
 
 
